@@ -1,0 +1,353 @@
+body{
+  background-color: #aaa;
+  font-family: Verdana;
+  width: 100%;
+}
+
+.container {
+    background-color: blueviolet;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 1500px;
+    height: 1500px;
+    display: flex;
+}
+.container2{
+    background-color: aquamarine;
+    width: 1000px;
+    height: 1100px;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.escrita{
+    color: white;
+    text-align: center;
+
+}
+.poltrona1{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 80px;
+    margin-left: 200px;
+   
+}
+.poltrona2{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -980px;
+    margin-left: 300px;
+ 
+
+}
+.poltrona3{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -980px;
+    margin-left: 600px;
+
+}
+.poltrona4{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona5{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona6{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.poltrona7{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona8{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona9{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona10{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.poltrona11{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona12{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona13{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona14{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.poltrona15{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona16{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona17{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona18{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.poltrona19{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona20{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona21{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+    
+}
+.poltrona22{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.poltrona23{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona24{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona25{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona26{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px; 
+    margin-left: 300px;
+
+}
+.poltrona27{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona28{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona29{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona30{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.poltrona31{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona32{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona33{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona34{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+.poltrona35{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona36{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}
+.poltrona37{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+
+}
+.poltrona38{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.poltrona39{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 600px;
+
+}
+.poltrona40{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: -80px;
+    margin-left: 700px;
+
+}

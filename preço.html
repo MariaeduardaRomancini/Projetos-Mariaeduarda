@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PrecoaPagar</title>
+    <link rel="stylesheet" href="preco.css">
+</head>
+
+<body>
+    <h1>Dizimo</h1>
+    <form>
+        <p>Salario: <input type="number" id="salario" value=""></p>
+        <p><button type="button" onclick="calculaDizimo()">Calcule o Dizimo</button></p>
+    </form>
+    <p id="resultado"></p>
+    <script type="text/javascript">//Parte do JavaScript do codigo 
+        function calculaDizimo() {// funcao que calcula quanto iremos pagar no dizimo
+            var salario = document.getElementById("salario").value;
+            var dizimo = 0;
+            if (salario <= 1200) {
+                dizimo = salario * 0.1;
+            } else if (salario <= 2571.29) {
+                dizimo = salario * 0.14;
+            } else if (salario <= 3856.94) {
+                dizimo = salario * 0.15;
+            } else if (salario <= 7507.49) {
+                dizimo = salario * 0.20;
+            } else {
+                dizimo = 20.000;
+            }
+            document.getElementById("resultado").innerHTML = "Dizimo a ser pago: R$" + dizimo.toFixed(2);//sera imprimido na tela a mensagem
+        }
+
+    </script>
+</body>
+
+</html>

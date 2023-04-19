@@ -1,0 +1,23 @@
+body { /* Essa funcao foi usada para definior a cor do fundo da pagina*/
+    background: linear-gradient(to right,#05a1ad, #447390 );
+    width: 100%;
+}
+
+h1{/* Essa foi usada para fazer o titulo da pagina*/
+    font-size: 50px;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    color: rgba(204, 247, 243, 0.616);
+}
+p{/*aumentar a escrita e mudar a cor da variavel salario e do resultado*/
+    font-size: 30px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: rgba(204, 247, 243, 0.616);
+
+}
+button{/*aumenta e muda de cor a escrita do botao*/
+
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color:black
+}
